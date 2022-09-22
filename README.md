@@ -21,6 +21,11 @@
 #### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dheerajth/AutoFilterBotV3/edit/master/
+#### Deploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/GtaEPY?referralCode=D2jev7)
+
+
 
 #### Hard Way
 ```bash
